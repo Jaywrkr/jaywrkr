@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  cursor: pointer;
+}
+
+canvas {
+  display: block;
+}
+
+.badge {
+  bottom: 10px;
+  left: 10px;
+  position: absolute;
+}
+
+.soundcloud {
+  top: 20px;
+  color: #FFF;
+  display: block;
+  font: 100 14px 'Questrial';
+  left: 0;
+  letter-spacing: 0.1em;
+  position: absolute;
+  text-align: center;
+  text-decoration: none;
+  text-transform: capitalize;
+  width: 100%;
+}
+
+.info{
+  bottom: 50px;
+  color: #FFF;
+  display: block;
+  font: 100 11px 'Questrial';
+  left: 0;
+  letter-spacing: 0.1em;
+  position: absolute;
+  text-align: center;
+  text-decoration: none;
+  width: 100%;
+}
+
+.texto {
+  bottom: 20px;
+  color: #FFF;
+  display: block;
+  font: 100 15px 'Questrial';
+  left: 0;
+  letter-spacing: 0.3em;
+  position: absolute;
+  text-align: center;
+  text-decoration: none;
+  text-transform: capitalize;
+  width: 100%;
+}
+
+.soundcloud-image {
+  display: inline-block;
+  margin-right: 15px;
+  margin-top: -4px;
+  vertical-align: middle;
+}
