@@ -22,7 +22,11 @@ Si cuentas con tu client_id, debes modificar el index.js en los siguientes punto
 	o.open("GET", "//api.soundcloud.com/resolve.json?url=XXXXX&YYYYY".....
 	r.src = e.stream_url + "?YYYYY".....
 				
-        XXXXX = link de compartir desde Soundcloud
-				YYYYY = client_id=xxxxxxxxxxxxxxxxxxxxxxxx
+        	XXXXX = link de compartir desde Soundcloud
+		YYYYY = client_id=xxxxxxxxxxxxxxxxxxxxxxxx
         
- 
+
+
+www.minervohub.com
+www.jcjaramillo.com
+https://www.instagram.com/jaywrkr
